@@ -9,3 +9,12 @@ The first part of the code was done by [https://www.youtube.com/@AlexTheAnalyst]
 The goal was really to learn how to do web scrapping.
 
 The second part of code line 18 is where I tried to import different data using the code above to help me.
+
+I've also added a web scrapping code for extracting stock prices and after-market stock prices from Yahoo.
+
+The original idea comes from https://www.youtube.com/@JohnWatsonRooney.
+
+I've learned how to do it on a basic set of stocks and reiterate it on some tech stocks.
+
+I've extracted the % change and prices of the after-market, I've also put all my data into a pandas data frame and transferred it into a CSV file.
+
